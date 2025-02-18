@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 ![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
 --->
 #### 💻 Technologies that I use
-![HTML5] ![CSS3] ![Bootstrap] ![TailwindCSS] ![JavaScript] ![Angular] ![Laravel livewireVolt]
+![HTML5](.) ![CSS3] ![Bootstrap] ![TailwindCSS] ![JavaScript] ![Angular] ![Laravel livewireVolt]
