@@ -49,7 +49,7 @@
 <!--
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DialloYoussef&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 -->
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DialloYoussef&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=DialloYoussef&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 ### 💻 Language Distribution & Productivity
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DialloYoussef&layout=compact&theme=github_dark&hide_border=true&langs_count=10&exclude_repo=DialloYoussef&card_width=400" />
@@ -63,8 +63,10 @@
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DialloYoussef&theme=github_dark" />
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DialloYoussef&theme=github_dark" />
 
+<!--
 ### 🏆 Achievement Showcase
 <img src="https://github-profile-trophy.vercel.app/?username=DialloYoussef&theme=darkhub&no-frame=true&margin-w=4&row=2&column=4" />
+-->
 
 ### 📈 Annual Contribution Activity
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DialloYoussef&theme=github-compact&hide_border=true&area=true&custom_title=📈%20Annual%20Contribution%20Timeline" />
