@@ -11,7 +11,7 @@
 ## 👋 About Me
 
 - 🔭 Passionate about **web and mobile development**
-- 🌱 Currently expanding skills in **mobile app development**
+- 🌱 Currently learning **AWS, Flutter, and mobile app development**
 - 💡 Love creating **innovative solutions**
 - 🤝 Open to **collaborations** and exciting projects
 - 📫 Reach me at: **dialloyoussoufubo@gmail.com**
@@ -23,11 +23,17 @@
 
 <div align="center">
 
-**Frontend:** `HTML5` `CSS3` `JavaScript` `Angular` `React`
+**Frontend:** `HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Angular`
 
-**Backend:** `PHP` `Laravel` `Python` `Django`
+**Mobile:** `Flutter` `React Native`
 
-**Styling:** `Bootstrap` `TailwindCSS`
+**Backend:** `Node.js` `PHP` `Python` `Laravel` `Livewire` `Django` `DRF`
+
+**Database:** `MySQL` `PostgreSQL`
+
+**Styling:** `TailwindCSS` `Bootstrap`
+
+**DevOps:** `Docker` `CI/CD` `AWS`
 
 **Tools:** `Git` `VS Code`
 
@@ -38,21 +44,32 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DialloYoussef&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DialloYoussef&theme=github-dark-blue&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DialloYoussef&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DialloYoussef&theme=github-dark-blue&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DialloYoussef&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DialloYoussef&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=DialloYoussef" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DialloYoussef&theme=github_dark" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=DialloYoussef&theme=github-compact&hide_border=true&area=true&custom_title=📈%20Annual%20Contribution%20Activity" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DialloYoussef&theme=darkhub&no-frame=true&margin-w=4&row=1&column=6" />
 </div>
 
 <br>
 
 ## 🎯 Current Focus
 
-**Learning:** Mobile Development, Advanced Laravel, React Native
+**Learning:** AWS Cloud Services, Flutter Development, Advanced DevOps
 
-**Looking for:** Collaboration opportunities, Open source projects
+**Building:** Full-stack applications with modern CI/CD pipelines
+
+**Looking for:** Collaboration opportunities, Open source contributions
 
 <br>
 
