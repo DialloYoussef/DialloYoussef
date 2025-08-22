@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+%26+Mobile+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+%26+Mobile+Enthusiast;AWS+%26+DevOps+Explorer;Always+Learning" alt="Typing SVG" />
 </div>
 
 <br>
@@ -19,46 +19,54 @@
 
 <br>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-<div align="center">
-
-**Frontend:** `HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Angular`
-
-**Mobile:** `Flutter` `React Native`
-
-**Backend:** `Node.js` `PHP` `Python` `Laravel` `Livewire` `Django` `DRF`
-
-**Database:** `MySQL` `PostgreSQL`
-
-**Styling:** `TailwindCSS` `Bootstrap`
-
-**DevOps:** `Docker` `CI/CD` `AWS`
-
-**Tools:** `Git` `VS Code`
-
-</div>
+```json
+{
+  "frontend": {
+    "languages": ["HTML5", "CSS3", "JavaScript", "TypeScript"],
+    "frameworks": ["React", "Angular"],
+    "mobile": ["Flutter", "React Native"]
+  },
+  "backend": {
+    "languages": ["PHP", "Python", "Node.js"],
+    "frameworks": ["Laravel", "Livewire", "Django", "DRF", "Express"]
+  },
+  "database": ["MySQL", "PostgreSQL"],
+  "styling": ["TailwindCSS", "Bootstrap", "SCSS"],
+  "devops": ["Docker", "CI/CD", "AWS", "GitHub Actions"],
+  "tools": ["Git", "VS Code", "Postman", "Figma"]
+}
+```
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 Complete GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DialloYoussef&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DialloYoussef&theme=github-dark-blue&hide_border=true" />
-</div>
+  
+### 📈 Core Statistics
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DialloYoussef&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DialloYoussef&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DialloYoussef&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=DialloYoussef" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DialloYoussef&theme=github_dark" />
-</div>
+### 💻 Language Distribution & Productivity
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DialloYoussef&layout=compact&theme=github_dark&hide_border=true&langs_count=10&exclude_repo=DialloYoussef&card_width=400" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DialloYoussef&theme=github_dark" />
 
-<div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=DialloYoussef&theme=github-compact&hide_border=true&area=true&custom_title=📈%20Annual%20Contribution%20Activity" />
-</div>
+### 📅 Detailed Activity Overview
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DialloYoussef&theme=github_dark" />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DialloYoussef&theme=darkhub&no-frame=true&margin-w=4&row=1&column=6" />
+### 📊 Comprehensive Stats Grid
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DialloYoussef&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DialloYoussef&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DialloYoussef&theme=github_dark" />
+
+### 🏆 Achievement Showcase
+<img src="https://github-profile-trophy.vercel.app/?username=DialloYoussef&theme=darkhub&no-frame=true&margin-w=4&row=2&column=4" />
+
+### 📈 Annual Contribution Activity
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DialloYoussef&theme=github-compact&hide_border=true&area=true&custom_title=📈%20Annual%20Contribution%20Timeline" />
+
 </div>
 
 <br>
