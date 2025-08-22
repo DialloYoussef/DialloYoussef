@@ -25,8 +25,8 @@
 {
   "frontend": {
     "languages": ["HTML5", "CSS3", "JavaScript", "TypeScript"],
-    "frameworks": ["React", "Angular"],
-    "mobile": ["Flutter", "React Native"]
+    "frameworks": ["LivewireVolt","React", "Angular"],
+    "mobile": ["Flutter"]
   },
   "backend": {
     "languages": ["PHP", "Python", "Node.js"],
@@ -35,7 +35,7 @@
   "database": ["MySQL", "PostgreSQL"],
   "styling": ["TailwindCSS", "Bootstrap", "SCSS"],
   "devops": ["Docker", "CI/CD", "AWS", "GitHub Actions"],
-  "tools": ["Git", "VS Code", "Postman", "Figma"]
+  "tools": ["Git", "VS Code", "Postman", "Figma", "Photoshop"]
 }
 ```
 
@@ -46,7 +46,9 @@
 <div align="center">
   
 ### 📈 Core Statistics
+<!--
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DialloYoussef&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+-->
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DialloYoussef&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 ### 💻 Language Distribution & Productivity
