@@ -23,3 +23,21 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ![Votre stats GitHub](https://github-readme-stats.vercel.app/api?username=DialloYoussef&show_icons=true&theme=radical) 
 -->
+📊 Statistiques GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DialloYoussef&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Statistiques GitHub" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DialloYoussef&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Langages les plus utilisés" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DialloYoussef&theme=tokyonight&hide_border=false" alt="Streak GitHub" />
+</div>
+🏆 Trophées GitHub
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DialloYoussef&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="Trophées GitHub" />
+</div>
+📈 Graphique d'activité
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DialloYoussef&theme=tokyo-night" alt="Graphique d'activité" />
+</div>
