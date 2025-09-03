@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Youssef%20Diallo&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Youssouf%20Diallo&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <div align="center">
