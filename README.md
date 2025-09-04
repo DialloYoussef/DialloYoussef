@@ -15,7 +15,7 @@
 - 💡 Love creating **innovative solutions**
 - 🤝 Open to **collaborations** and exciting projects
 - 📫 Reach me at: **dialloyoussoufubo@gmail.com**
-- 🌐 Portfolio: **([youssouf.dev](https://youssouf.dev/))**
+- 🌐 Portfolio: **[youssouf.dev](https://youssouf.dev/)**
 
 <br>
 
