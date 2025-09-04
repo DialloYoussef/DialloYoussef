@@ -15,7 +15,7 @@
 - 💡 Love creating **innovative solutions**
 - 🤝 Open to **collaborations** and exciting projects
 - 📫 Reach me at: **dialloyoussoufubo@gmail.com**
-- 🌐 Portfolio: **[portfolioyou-steel.vercel.app](https://portfolioyou-steel.vercel.app/)**
+- 🌐 Portfolio: **([youssouf.dev](https://youssouf.dev/))**
 
 <br>
 
