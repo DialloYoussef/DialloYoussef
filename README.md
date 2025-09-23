@@ -108,6 +108,7 @@
   
   **⭐ Feel free to explore my repositories!**
 </div>
+<!--
 <div align="center">
     [![committers.top badge](https://org-badge.committers.top/guinea_private/ORGNAME.svg)](https://org-badge.committers.top/guinea_private/ORGNAME)
 
@@ -117,3 +118,4 @@ githubUsers.sort(_.followers)
            .take(1000)
            .sort(_.contributions)
            .take(256)
+-->
