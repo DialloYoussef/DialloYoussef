@@ -109,6 +109,6 @@
   **⭐ Feel free to explore my repositories!**
 </div>
 <div align="center">
-    [![committers.top badge](https://user-badge.committers.top/guinea_private/USERNAME.svg)](https://user-badge.committers.top/
+    [![committers.top badge](https://org-badge.committers.top/guinea_private/ORGNAME.svg)](https://org-badge.committers.top/guinea_private/ORGNAME)
 
 </div>
