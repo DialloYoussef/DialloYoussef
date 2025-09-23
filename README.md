@@ -112,3 +112,8 @@
     [![committers.top badge](https://org-badge.committers.top/guinea_private/ORGNAME.svg)](https://org-badge.committers.top/guinea_private/ORGNAME)
 
 </div>
+githubUsers.sort(_.followers)
+           .filter(_.location == 'Guinea') 
+           .take(1000)
+           .sort(_.contributions)
+           .take(256)
