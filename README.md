@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+%26+Mobile+Enthusiast;AWS+%26+DevOps+Explorer;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+%26+Mobile+Enthusiast;AWS+%26+DevOps+IA/ML+Explorer;Always+Learning" alt="Typing SVG" />
 </div>
 
 <br>
@@ -78,7 +78,7 @@
 
 ## 🎯 Current Focus
 
-**Learning:** AWS Cloud Services, Flutter Development, Advanced DevOps
+**Learning:** AWS Cloud Services, Flutter Development, Advanced DevOps, IA/ML
 
 **Building:** Full-stack applications with modern CI/CD pipelines
 
