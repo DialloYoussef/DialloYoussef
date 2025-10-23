@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+%26+Mobile+Enthusiast;AWS+%26+DevOps+IA/ML+Explorer;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+%26+Mobile+Enthusiast;AWS+%26+DevOps+%26+IA/ML+Explorer;Always+Learning" alt="Typing SVG" />
 </div>
 
 <br>
@@ -11,7 +11,7 @@
 ## 👋 About Me
 
 - 🔭 Passionate about **web and mobile development**
-- 🌱 Currently learning **AWS, Flutter, and mobile app development**
+- 🌱 Currently learning **AWS, Flutter, IA/ML and mobile app development**
 - 💡 Love creating **innovative solutions**
 - 🤝 Open to **collaborations** and exciting projects
 - 📫 Reach me at: **dialloyoussoufubo@gmail.com**
