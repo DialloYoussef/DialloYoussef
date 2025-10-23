@@ -66,12 +66,13 @@
 <!--
 ### 🏆 Achievement Showcase
 <img src="https://github-profile-trophy.vercel.app/?username=DialloYoussef&theme=darkhub&no-frame=true&margin-w=4&row=2&column=4" />
--->
 
 ### 📈 Annual Contribution Activity
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DialloYoussef&theme=github-compact&hide_border=true&area=true&custom_title=📈%20Annual%20Contribution%20Timeline" />
 
 </div>
+-->
+
 
 <br>
 
