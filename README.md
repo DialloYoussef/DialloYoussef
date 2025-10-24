@@ -11,7 +11,7 @@
 ## 👋 About Me
 
 - 🔭 Passionate about **web and mobile development**
-- 🌱 Currently learning **AWS, Flutter, IA/ML and mobile app development**
+- 🌱 Currently learning **AWS, IA/ML and mobile app development(with Flutter)**
 - 💡 Love creating **innovative solutions**
 - 🤝 Open to **collaborations** and exciting projects
 - 📫 Reach me at: **dialloyoussoufubo@gmail.com**
