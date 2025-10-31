@@ -50,11 +50,11 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DialloYoussef&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 -->
 <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=DialloYoussef&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
+<!--
 ### 💻 Language Distribution & Productivity
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DialloYoussef&layout=compact&theme=github_dark&hide_border=true&langs_count=10&exclude_repo=DialloYoussef&card_width=400" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DialloYoussef&theme=github_dark" />
-
+-->
 ### 📅 Detailed Activity Overview
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DialloYoussef&theme=github_dark" />
 
@@ -87,6 +87,7 @@
 <br>
 
 ## 📫 Connect With Me
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolioyou-steel.vercel.app/) -->
 
 <div align="center">
   
