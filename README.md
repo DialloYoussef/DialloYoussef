@@ -87,7 +87,6 @@
 <br>
 
 ## 📫 Connect With Me
-  <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolioyou-steel.vercel.app/) -->
 
 <div align="center">
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dialloyoussoufubo@gmail.com)
