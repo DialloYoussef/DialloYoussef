@@ -25,17 +25,17 @@
 {
   "frontend": {
     "languages": ["HTML5", "CSS3", "JavaScript", "TypeScript"],
-    "frameworks": ["LivewireVolt","React", "Angular"],
+    "frameworks": ["LivewireVolt","React", "Angular", "NextJs"],
     "mobile": ["Flutter"]
   },
   "backend": {
-    "languages": ["PHP", "Python", "Node.js"],
-    "frameworks": ["Laravel", "Livewire", "Django", "DRF", "Express"]
+    "languages": ["PHP", "Python", "Js"],
+    "frameworks": ["Laravel/Livewire/Volt", "Django DRF", "NodeJs/Express"]
   },
   "database": ["MySQL", "PostgreSQL"],
   "styling": ["TailwindCSS", "Bootstrap", "SCSS"],
   "devops": ["Docker", "CI/CD", "AWS", "GitHub Actions"],
-  "tools": ["Git", "VS Code", "Postman", "Figma", "Photoshop"]
+  "tools": ["Git", "VS Code", "Postman", "Photoshop","IA"]
 }
 ```
 
