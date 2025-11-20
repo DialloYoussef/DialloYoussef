@@ -25,7 +25,7 @@
 {
   "frontend": {
     "languages": ["HTML5", "CSS3", "JavaScript", "TypeScript"],
-    "frameworks": ["LivewireVolt","React", "Angular", "NextJs"],
+    "frameworks": ["LivewireVolt","React & NextJs", "Angular", ""],
     "mobile": ["Flutter"]
   },
   "backend": {
