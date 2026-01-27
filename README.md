@@ -25,7 +25,7 @@
 {
   "frontend": {
     "languages": ["HTML5", "CSS3", "JavaScript", "TypeScript"],
-    "frameworks": ["LivewireVolt","React & NextJs", "Angular", ""],
+    "frameworks": ["LivewireVolt","React", "Angular^16", "NextJs"],
     "mobile": ["Flutter"]
   },
   "backend": {
@@ -35,9 +35,16 @@
   "database": ["MySQL", "PostgreSQL"],
   "styling": ["TailwindCSS", "Bootstrap", "SCSS"],
   "devops": ["Docker", "CI/CD", "AWS", "GitHub Actions"],
-  "tools": ["Git", "VS Code", "Postman", "Photoshop","IA"]
+  "tools": ["Git", "VS Code", "Postman", "Photoshop","IA-assisted development"]
 }
 ```
+
+![Laravel](https://img.shields.io/badge/Laravel-red)
+![Livewire](https://img.shields.io/badge/Livewire-orange)
+![Angular](https://img.shields.io/badge/Angular-red)
+![Django](https://img.shields.io/badge/Django-green)
+![AWS](https://img.shields.io/badge/AWS-orange)
+![Docker](https://img.shields.io/badge/Docker-blue)
 
 <br>
 
