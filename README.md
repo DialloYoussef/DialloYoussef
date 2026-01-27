@@ -29,8 +29,8 @@
     "mobile": ["Flutter"]
   },
   "backend": {
-    "languages": ["PHP", "Python", "Js"],
-    "frameworks": ["Laravel/Livewire/Volt", "Django DRF", "NodeJs/Express"]
+    "languages": ["PHP", "Python", "JavaScript/Node.js"],
+    "frameworks": ["Laravel/Livewire/Volt", "Django DRF", "NodeJs/Express.js"]
   },
   "database": ["MySQL", "PostgreSQL"],
   "styling": ["TailwindCSS", "Bootstrap", "SCSS"],
