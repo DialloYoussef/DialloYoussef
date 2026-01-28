@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+%26+Mobile+Enthusiast;AWS+%26+DevOps+%26+IA/ML+Explorer;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer;Web+%26+Mobile+Enthusiast;AWS+%26+DevOps+%26+IA/ML+Explorer;Always+Learning" alt="Typing SVG" />
 </div>
 
 <br>
@@ -73,7 +73,10 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<!-- 
 ![AI](https://img.shields.io/badge/AI_Assisted-412991?style=for-the-badge&logo=openai&logoColor=white)
+-->
+![AI Assisted Dev](https://img.shields.io/badge/AI_Assisted_Development-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
