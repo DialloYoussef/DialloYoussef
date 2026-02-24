@@ -165,4 +165,4 @@ githubUsers.sort(_.followers)
 ### 🌍 GitHub Ranking
 🇬🇳 Ranked among **top GitHub contributors in Guinea**  
 🔗 Source: [committers.top – Guinea](https://committers.top/guinea_private)
-[![committers.top badge](https://user-badge.committers.top/guinea_private/DialloYoussef.svg)](https://user-badge.committers.top/guinea_private/DialloYoussef)
+
