@@ -100,7 +100,9 @@
 
 ### 📊 Comprehensive Stats Grid
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DialloYoussef&theme=github_dark" />
+<!--
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DialloYoussef&theme=github_dark" />
+-->
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DialloYoussef&theme=github_dark" />
 
 <!--
